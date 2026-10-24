@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Projet de Master **Intelligence Artificielle et Applications (IAA)** — Faculté Polydisciplinaire de Ouarzazate, Université Ibn Zohr (2026).
+Projet de Master **Intelligence Artificielle et Applications (IAA)**  | Faculté des Sciences Appliquées de Ouarzazate, Université Ibn Zohr.
 
 ## Question de recherche
 
