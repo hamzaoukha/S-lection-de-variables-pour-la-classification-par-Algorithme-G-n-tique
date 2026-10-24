@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce travail, merci de le citer comme suit."
+title: "Sélection de variables pour la classification par Algorithme Génétique : comparaison avec PSO binaire et une référence simple"
+authors:
+  - family-names: "Oukhasha"
+    given-names: "Hamza"
+  - family-names: "NOM"
+    given-names: "Prénom"
+date-released: 2026-10-24
+license: MIT
+repository-code: "https://github.com/VOTRE_NOM_UTILISATEUR/selection-variables-ag-bpso"
+keywords:
+  - feature selection
+  - genetic algorithm
+  - binary particle swarm optimization
+  - classification
