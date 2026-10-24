@@ -58,11 +58,11 @@ $$f(\mathbf{x}) = \alpha\,\bigl(1 - \mathrm{Acc}_{\mathrm{CV}}(S)\bigr) + (1-\al
 3. **Coût** : la sélection par métaheuristique est **44 à 78 fois plus lente** que le filtre.
 4. **Point fort** : sur Ionosphere, l'AG et le BPSO dépassent significativement la référence Toutes ($p = 0{,}004$) avec environ 8 à 9 variables sur 34.
 
-➡️ Du point de vue de la précision, le surcoût des métaheuristiques n'est pas justifié dans ce cadre ; l'AG produit toutefois des sous-ensembles plus compacts sur 2 des 3 jeux.
+Du point de vue de la précision, le surcoût des métaheuristiques n'est pas justifié dans ce cadre ; l'AG produit toutefois des sous-ensembles plus compacts sur 2 des 3 jeux.
 
 ## Reproduire les expériences
 
-**Option 1 — Google Colab (recommandé)** : cliquer sur le badge « Open in Colab » ci-dessus, puis `Exécution > Tout exécuter` (environ 10 à 15 minutes).
+**Option 1 — Google Colaab** : cliquer sur le badge « Open in Colab » ci-dessus, puis `Exécution > Tout exécuter`.
 
 **Option 2 — En local** :
 
@@ -109,7 +109,7 @@ La bibliographie complète se trouve dans [`rapport/references.bib`](rapport/ref
 ## Auteurs
 
 - **Hamza Oukhasha**
-- **Prénom NOM**
+- **EL-JANDOUZ HASSANE**
 
 ## Licence
 
